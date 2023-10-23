@@ -1,5 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
 
+@media (max-width: 650px) {
+    .subtitle {
+        top: 85%; /* Ajuste para baixo quando a tela é menor que 650 pixels */
+    }
+}
+
 html{
     scroll-behavior: smooth;
 }
@@ -333,6 +339,22 @@ nav .logo{
     width: 1px;
     height: 500px;
     background-image: radial-gradient(#2a55a3,#ffffff);;
+}
+
+.contact-card {
+    position: relative;
+    display: inline-block;
+}
+
+.subtitle {
+    position: absolute;
+    top: 81.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-size: 27px;
+    color: white;
+    white-space: nowrap;
 }
 
 @media screen and (max-width: 1220px) {
