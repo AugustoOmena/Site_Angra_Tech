@@ -1,10 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
 
-@media (max-width: 650px) {
-    .subtitle {
-        top: 85%; /* Ajuste para baixo quando a tela é menor que 650 pixels */
-    }
-}
 
 html{
     scroll-behavior: smooth;
@@ -386,6 +381,12 @@ nav .logo{
     .contact-card{
         width: 100%;
         padding:0px;
+    }
+}
+
+@media (max-width: 650px) {
+    .subtitle {
+        top: 87%; /* Ajuste para baixo quando a tela é menor que 650 pixels */
     }
 }
 
