@@ -382,6 +382,9 @@ nav .logo{
         width: 100%;
         padding:0px;
     }
+    .subtitle {
+        top: 87%; /* Ajuste para baixo quando a tela é menor que 650 pixels */
+    }
 }
 
 @media (max-width: 650px) {
