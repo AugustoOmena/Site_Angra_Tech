@@ -160,7 +160,7 @@ nav .logo{
 /* imagem fundo mapa */
 
 .fundo-imagem{
-    background-image: url("images/SALE1.jpg");
+    background-image: url("images/Sobre.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -417,3 +417,4 @@ nav .logo{
     text-align: center;
     padding-bottom: 2em;
 }
+
