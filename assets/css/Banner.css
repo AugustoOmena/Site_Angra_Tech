@@ -153,10 +153,12 @@ font-size: 39px;
 }
 }
 
-@media screen and (max-width: 600px) { /* ================================ 666px ================================ */
+@media screen and (max-width: 600px) { /* ================================ 600px ================================ */
 
     .imagemP{
-        display: none;
+        width: 200px; height: 200PX;
+        top: 56%; 
+        left: 57%;
     }
 }
 
@@ -165,4 +167,13 @@ font-size: 39px;
 font-size: 39px; 
 
 }
+}
+
+@media screen and (max-width: 467px) { /* ================================ 467px ================================ */
+
+    .imagemP{
+        width: 150px; height: 150PX;
+        top: 15%; 
+        left: 33%;
+    }
 }
