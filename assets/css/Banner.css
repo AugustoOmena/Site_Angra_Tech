@@ -85,7 +85,9 @@ font-size: 3em;
 
 @media screen and (max-width: 944px) { /* ================================= 944px ================================ */
 .imagemCentralizada {
+    box-sizing: border-box; /* Adicione esta linha */
     width: 100%;
+    max-width: 100%;
     height: 550px;
     display: block;
 }
@@ -149,9 +151,13 @@ font-size: 39px;
 .imagemCentralizada {
     width: 700px;
 }
+}
 
+@media screen and (max-width: 600px) { /* ================================ 666px ================================ */
 
-
+    .imagemP{
+        display: none;
+    }
 }
 
 @media screen and (max-width: 490px) { /* ================================ 490px ================================ */
