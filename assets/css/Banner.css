@@ -6,21 +6,21 @@
 .Prefeitura {
     position: absolute;
     top: 85%; 
-    left: 17%;
+    left: 20%;
     transform: translateY(-50%); 
     line-height: 1;
-    width: 97px;
-    height: 65px;
+    width: 115px;
+    height: 75px;
 }
 
 .Secretaria {
     position: absolute;
     top: 84.5%; 
-    left: 5%; 
+    left: 6%; 
     transform: translateY(-50%); 
     line-height: 1;
-    width: 115px;
-    height: 59px;
+    width: 140px;
+    height: 69px;
 }
 
 .imagemCentralizada {
@@ -29,9 +29,10 @@
     display: block;
 }
 
+
 .imagemP {
     position: absolute;
-    top: 56%; 
+    top: 67.7%; 
     left: 57%; 
     transform: translateY(-50%); 
     width: 500px; height: 500px;
