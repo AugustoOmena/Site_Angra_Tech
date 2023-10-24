@@ -25,7 +25,7 @@
 
 .imagemCentralizada {
     width: 100%;
-    height: auto;
+    max-height: 771.68;
     display: block;
 }
 
