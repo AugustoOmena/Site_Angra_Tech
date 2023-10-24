@@ -62,6 +62,40 @@
     line-height: 1;
 }
 
+@media screen and (max-width: 1910px) { /* ================================ 1258px ================================ */
+    .textoSobreImagem {
+    font-size: 4em;
+    }
+    .imagemP {
+        position: absolute;
+        top: 67.7%; 
+        left: 57%; 
+        transform: translateY(-50%); 
+        width: 500px; height: 500px;
+        z-index: 0;
+        mask-image: linear-gradient(to top, transparent 0%, black 10%);
+    }
+
+        .imagemCentralizada {
+            height: 771.68px;
+        }
+    
+    }
+
+
+@media screen and (max-width: 1450px) { /* ================================ 1258px ================================ */
+    .textoSobreImagem {
+    font-size: 4em;
+    }
+    .imagemP {
+        top: 67.7%; 
+        left: 57%; 
+        transform: translateY(-50%); 
+        width: 500px; height: 500px;
+        }
+    
+    }
+
 
 @media screen and (max-width: 1258px) { /* ================================ 1258px ================================ */
 .textoSobreImagem {
