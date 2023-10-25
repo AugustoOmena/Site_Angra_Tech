@@ -62,7 +62,7 @@
     line-height: 1;
 }
 
-@media screen and (max-width: 6910px) { /* ================================ 1258px ================================ */
+@media screen and (max-width: 6910px) { /* ================================ 6910px ================================ */
     .textoSobreImagem {
     font-size: 4em;
     }
@@ -83,7 +83,7 @@
     }
 
 
-@media screen and (max-width: 1450px) { /* ================================ 1258px ================================ */
+@media screen and (max-width: 1450px) { /* ================================ 1450px ================================ */
     .textoSobreImagem {
     font-size: 4em;
     }
