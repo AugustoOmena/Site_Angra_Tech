@@ -5,6 +5,13 @@ html{
     scroll-behavior: smooth;
 }
 
+.banner {
+    position: relative;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+  }
+
 :root{
     --white: #ffffff;
     --black: #000000;
