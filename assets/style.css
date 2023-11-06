@@ -97,6 +97,7 @@ nav .logo{
     min-width:200px;
     max-width:270px;
     display: flex;
+    z-index: 0;
 }
 
 
@@ -128,6 +129,11 @@ nav .logo{
         background: none;
         color: rgb(45, 45, 45);
         font-size: 1.6rem;
+    }
+
+    nav .AjusteX {
+        margin-top: 30px;
+        margin-left: 5px;
     }
 }
 
