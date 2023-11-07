@@ -35,7 +35,7 @@ a{
 }
 
 ul{
-    list-style: none;
+    list-style-type: none;
 }
 
 /* Header */
@@ -222,7 +222,7 @@ nav .logo{
 
 .responsiveItem3{
     width: 250px;
-    height: 150px;
+    height: 220px;
 }
 
 .responsiveItem a{
@@ -463,9 +463,5 @@ nav .logo{
     padding: 3px;
     text-align: center;
     padding-bottom: 2em;
-}
-
-.marginBottom {
-    margin-bottom: 60px;
 }
 
