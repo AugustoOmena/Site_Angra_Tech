@@ -482,3 +482,51 @@ table {
   th {
     background-color: #f2f2f2;
   }
+
+  @media screen and (max-width: 600px) {
+    table {
+        font-size: 12px; /* Ajuste o tamanho da fonte para telas menores */
+    }
+}
+
+@media screen and (max-width: 518px) {
+    table {
+        font-size: 11px; /* Ajuste o tamanho da fonte para telas menores */
+    }
+}
+
+@media screen and (max-width: 518px) {
+    table {
+        font-size: 11px; /* Ajuste o tamanho da fonte para telas menores */
+    }
+}
+
+@media screen and (max-width: 479px) {
+    table {
+        font-size: 10px; /* Ajuste o tamanho da fonte para telas menores */
+    }
+}
+
+@media screen and (max-width: 441px) {
+    table {
+        font-size: 9px; /* Ajuste o tamanho da fonte para telas menores */
+    }
+}
+
+@media screen and (max-width: 400px) {
+    table {
+        font-size: 8px; /* Ajuste o tamanho da fonte para telas menores */
+    }
+}
+
+@media screen and (max-width: 357px) {
+    table {
+        font-size: 7px; /* Ajuste o tamanho da fonte para telas menores */
+    }
+}
+
+@media screen and (max-width: 323px) {
+    table {
+        font-size: 6px; /* Ajuste o tamanho da fonte para telas menores */
+    }
+}
