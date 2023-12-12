@@ -1,4 +1,7 @@
 # Site do Angra Tech
+![Imagem Angra Tech](	https://www.angra.rj.gov.br/angratech/assets/images/Banner_CC/Computador.jpeg
+)
+
 Bem-vindo ao repositório oficial do site do Angra Tech! Este repositório contém informações essenciais para o evento de Tecnologia que ocorrerá nos dias 6 e 7 de dezembro de 2023. O Angra Tech é um encontro imperdível, reunindo startups inovadoras, renomados palestrantes, ecossistemas de inovação e oportunidades de carreira no campo tecnológico.
 
 # Destaques do Evento
